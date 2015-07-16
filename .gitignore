@@ -183,6 +183,7 @@ release.sh
 localpackages/
 paket-files
 *.orig
+!.paket/
 .paket/paket.exe
 docs/content/license.md
 docs/content/release-notes.md
