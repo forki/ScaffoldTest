@@ -1,9 +1,9 @@
-[![Issue Stats](http://issuestats.com/github/fsprojects/ProjectScaffold/badge/issue)](http://issuestats.com/github/fsprojects/ProjectScaffold)
-[![Issue Stats](http://issuestats.com/github/fsprojects/ProjectScaffold/badge/pr)](http://issuestats.com/github/fsprojects/ProjectScaffold)
+[![Issue Stats](http://issuestats.com/github/theor/ScaffoldTest/badge/issue)](http://issuestats.com/github/theor/ScaffoldTest)
+[![Issue Stats](http://issuestats.com/github/theor/ScaffoldTest/badge/pr)](http://issuestats.com/github/theor/ScaffoldTest)
 
 # ProjectScaffold
 
-This project can be used to scaffold a prototypical .NET solution including file system layout and tooling. This includes a build process that: 
+This project can be used to scaffold a prototypical .NET solution including file system layout and tooling. This includes a build process that:
 
 * updates all AssemblyInfo files
 * compiles the application and runs all test projects
@@ -13,11 +13,11 @@ This project can be used to scaffold a prototypical .NET solution including file
 * generates [NuGet](http://www.nuget.org) packages
 * and allows a simple [one step release process](http://fsprojects.github.io/ProjectScaffold/release-process.html).
 
-In order to start the scaffolding process run 
+In order to start the scaffolding process run
 
-    $ build.cmd // on windows    
+    $ build.cmd // on windows
     $ build.sh  // on mono
-    
+
 Read the [Getting started tutorial](http://fsprojects.github.io/ProjectScaffold/index.html#Getting-started) to learn more.
 
 Documentation: http://fsprojects.github.io/ProjectScaffold
